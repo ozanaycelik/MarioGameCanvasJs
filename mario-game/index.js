@@ -1,7 +1,7 @@
 
-import platform from './img/platform.png'
+//import platform from './img/platform.png'
 
-console.log(platform)
+//console.log(platform)
 // ilgili canvas tagımızı seçtik
 //canvas çerçevemiz oluyor.
 const canvas = document.querySelector('canvas');
